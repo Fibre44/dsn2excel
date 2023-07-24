@@ -1,0 +1,23 @@
+html {
+    min-height: 100vh;
+    min-width: 100vh;
+}
+
+body {
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.test {
+    border: 10px;
+    color: red;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
